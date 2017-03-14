@@ -1,0 +1,39 @@
+main {
+    align-content: center;
+    width: 800px;
+}
+
+.container-one {
+    width: 50%;
+    height: 300px;
+    border: 1px black solid;
+    display: inline-block;
+}
+
+.container-two {
+    width: 33.3333333%;
+    width: calc(100%/3);
+    height: 200px;
+    border: 1px black solid;
+    display: inline-block;
+}
+
+.innerC1-one {
+    background-color: green;
+}
+
+.innerC1-two {
+    background-color: blue;
+}
+
+.innerC2-one {
+    background-color: grey;
+}
+
+.innerC2-two {
+    background-color: black;
+}
+
+.innerC2-three {
+    background-color:
+}
