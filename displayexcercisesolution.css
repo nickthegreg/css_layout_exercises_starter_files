@@ -1,0 +1,48 @@
+main {
+font-size: 0;
+}
+
+
+.whole-box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.box {
+    border: 1px solid black;
+    display: inline-block;
+}
+.innerc1 {
+    width: 50%;
+    height: 300px;
+}
+
+.innerc2 {
+    width: 33.3333333%;
+    height: 200px;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.black {
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.container {
+    text-align: center;
+}
