@@ -20,10 +20,11 @@ li+li {
 
 nav img {
     height: 80px;
+    margin-left: 90px;
     margin-top: 5px;
     margin-bottom: 5px;
-    padding-left: 90px;
-    padding-right: 90px;
+/*    padding-left: 90px;
+    padding-right: 90px; made my circle cat no good*/
     display: inline-block;
     vertical-align: middle;
     border-radius: 100%;
@@ -50,7 +51,21 @@ main {
     height: 300px;
     width: 600px;
     background: transparent;
-    border: 5px dashed rgba(0, 255, 0, .5);
+    border: 5px dashed rgba(0, 255, 0, .1);
+}
 
+.dogpic {
+    width: 200px;
+    height: 200px;
+    left: 300px;
+    top: 200px;
+    position: relative;
+}
 
+.catpic {
+    height: 200px;
+    width: 200px;
+    bottom: 100px;
+    right: 100px;
+    position: relative;
 }
